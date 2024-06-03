@@ -1,2 +1,2 @@
 # nahkd123.github.io
-It's better to go to [this page](https://nahkd123.github.io/index.html) instead. Thanks
+Think of this as my extended portfolio (and `@nahkd123/nahkd123` as my minified portfolio). Nothing interesting for now.
