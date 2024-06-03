@@ -1,0 +1,20 @@
+# My thoughts on generative AI boom
+It's 2024. OpenAI just cooked a new GPT-4o model. Google just opened up their Gemini 1.5 to the public. And my local news is filled with news about generative AI. My real life friends are talking about how they are going to lose their job to AI. My parents are worried that one day, I would lose my job to AI as well. It's all about AI nowadays it seems.
+
+To be fair with you, I'm not worried much about AI. If anything, I would lose my programming job to pursue something higher, like designing the system architecture for example. And when AI managed to design the system architecture, I would lose that skill to pursue something higher. It's a constant velocity of moving up one level higher than AI. And if AI is way too good, I would just do whatever I enjoy the most, rather than keep competing with AI. It's just a fruitless battle if I even attempt to.
+
+## AI generated arts
+You might not know about this, but I do enjoy drawing when I have free time. And you know what? I will still keep drawing even if AI can generate wonderful and pristine arts. I don't draw for a living, so it is pretty easy for me to keep scribing pen on a piece of paper (or digital canvas, because I'm more of digital guy).
+
+I think AI image generators should be around, as I can see people wanting to tell their story, but unable to do so because they don't know how to draw yet. I mean, sure, they can just don't put image between paragraphs and call it a day, but having an accompanying arts tells more about the story. Or you can say that I am speaking nonsenses and that person can just commission an artist, but they don't have money for that, or the artist's interpretation is just not the same as writer's. Or you just want to flame someone for trying to praise AI because it has a word "AI" in it.
+
+But how about when AI shouldn't be used? "Because it stoles arts" might not be accurate as there are models that are trained on materials licensed under Creative Commons licenses, and to keep your copyright sanity, we will talk about models that are trained on materials that are properly licensed. "Because it let people scam others" would be more accurate, as there are people that are expecting the artist to draw and deliver a hand-drawn work, but ended up receiving AI generated image for stupidly high price.
+
+## "Too hard" is not an excuse!
+I have seen some people said that drawing is just too hard and so they should be allowed to use AI. Or some people said something like "artists rioting against AI is gatekeeping people", which I heavily disagree.
+
+First off, they are going against AI so that they can protect their income, which is fair I guess but you better learn other skills as well, just in case no ones care about your voice. To me, drawing is just a fun free time activity so there is no income incentive to even care.
+
+Second, it is not gatekeeping if they are not trying to stop you from drawing. Most of the riots against AI are all about big corpo violating copyrights, which does not stop you from trying to draw with pen and paper. In fact, artists would love to help you draw your first art if you ask them kind enough (unless they are professional NSFW artist, which can be lightly toxic at best, at least from my own experience).
+
+Also, prompting have much different experience than drawing with pen and paper. If you don't have hands to draw then fine, you may choose to keep prompting for your personal use only, no big deal. But if you have physical capability to draw then please, give it a try instead of running away from it with your prompting shoes. Your day 1 might not be as good as professionals', but it will be fun once you got into traditional techniques. Or you can came up with your own techniques, which is even more enjoyable.
