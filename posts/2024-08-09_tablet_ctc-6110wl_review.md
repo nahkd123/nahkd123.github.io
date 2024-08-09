@@ -7,7 +7,7 @@
 - Nice pen compatiblity
 - Works with Android phones
 - No buttons on the tablet
-- **Bad pressure input** (at least for me; bad for drawing if you ask me)
+- **Bad pressure input/Inconsistent pen pressure** (very important to note; bad for drawing if you ask me)
 - Unreliable USB-C port
 - Eat nibs like crazy
 
@@ -54,12 +54,16 @@ I mean, a consumer tablet that was meant to be used by consumers should works wi
 A weird quirk I found. The pen is also compatible with my Note10+ as well, so yeah, I guess I only need 1 pen to rule 'em all!
 
 ## Cons
-### Bad pressure input (at least for me)
+### Bad pressure input/Inconsistent pen pressure
 Despite having 4096 pressure points, this tablet might actually be more terrible than my friend's CTL-472, which only have 1024 pressure points. The pen pressure is glitchy; it doesn't smoothly interpolate when I draw in Krita (at least with 1000px brush size).
 
 ![CTC-6110WL: Stroke that looks like a bunch of blobs](./2024-08-09/stroke.png)
 
 I tried using S-pen on my tablet and Wacom pen on my phone to confirm that this is not the pen issue (they are cross compatible!). Stroke on my phone is smooth and nice, while on my PC, it looks like a bunch of blobs, just like screencap above. I was wondering if this is an issue with my tablet only, or it affect all CTC-x110WL tablets, since the tablet buying guide spreadsheet also states that CTC-4110WL (a smaller variant of my tablet) have glitchy pressure.
+
+The current mitigation for inconsistent pressure now is to use pressure smoothing, which adds a bit of latency. In Krita, you can use "Weighted" smoothing with "Smooth Pressure". For other applications, consider finding something related to pressure smoothing in the manual, or use OpenTabletDriver with pressure smoothing plugin.
+
+**Update (10/08/2024)**: You can (partially) mitigate the inconsistent pressure problem by folloing the guide mentioned in this video: https://www.youtube.com/watch?v=415ngQOHiME. Also it's confirmed that the entire CTC-x110WL line of tablets have the same pressure issue, so I've removed "at least for me" part. I wish one day Wacom will release a firmware update to (at least partially) fix the issue (driver update is not enough; the tablet was designed to work on Android devices as well).
 
 ### USB-C port sometimes broke for a few minutes
 This had happened to me multiple times before, but it usually related to high power device or something. Basically, there's a period where I can't connect using USB-C cable. Bluetooth still works; it's just the USB that doesn't works. I'm not sure why, it could be my tablet's issue again, or it could be something that also affect all tablets with the same model, because this issue also happened with another one at local Wacom store (the place where I bought this tablet).
